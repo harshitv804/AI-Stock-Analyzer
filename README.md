@@ -21,9 +21,9 @@ https://github.com/user-attachments/assets/36447d2c-1379-4426-871c-191090ff678d
 #### 3. Add Google Gemini API key to the `.env` file.
 #### 4. Run `streamlit run stock_analyse.py`.
 
-## Customization Features
+## Customization Features:
 - You can fetch data if you have an Screener Account for adding more metrics. To do that add your login credintials inside the `StockScreenerScraper(login_email='LOGIN_EMAIL',login_pass='LOGIN_PASS')` class shown below:
 https://github.com/harshitv804/AI-Stock-Analyzer/blob/b97bd4aafcaae60fa7b7b95eeabd551e966e226f/stock_analyse.py#L33
 
-## Contact
+## Contact:
 If you have any questions or feedback, please raise an [github issue](https://github.com/harshitv804/LawGPT/issues).
