@@ -12,7 +12,7 @@ https://github.com/user-attachments/assets/36447d2c-1379-4426-871c-191090ff678d
 ## How to Run:
 #### 1. Clone the repository:
    - ```
-     git clone https://github.com/harshitv804/LawGPT.git
+     git clone https://github.com/harshitv804/AI-Stock-Analyzer.git
      ```
 #### 2. Install necessary packages:
    - ```
